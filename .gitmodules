@@ -4,3 +4,6 @@
 [submodule "blog"]
 	path = blog
 	url = https://github.com/youssb/blog
+[submodule "resume"]
+	path = resume
+	url = https://github.com/youssb/resume
