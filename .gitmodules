@@ -1,3 +1,6 @@
 [submodule "short-resume"]
 	path = short-resume
 	url = https://github.com/youssb/short-resume
+[submodule "blog"]
+	path = blog
+	url = https://github.com/youssb/blog
